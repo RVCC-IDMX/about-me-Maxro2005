@@ -1,18 +1,30 @@
- body {
-    font-family: Roboto;
-    background-color: #EBE800;
-    color: #5A2899;
- }
+body {
+   font-family: Roboto;
+   background-color: #EBE800;
+   color: #5A2899;
+}
 
- h1, h2, h3, h4, h5, h6 {
-    font-family: "Orelega One";
-    font-size: 40pt;
- }
+h1, h2, h3, h4, h5, h6 {
+   font-family: "Orelega One";
+   font-size: 40pt;
+}
 
- header, footer {
-    text-align: center;
- }
+header {
+   text-align: center;
+}
 
- main {
-    text-align: center;
- }
+#hero, footer {
+   color: #9453E5;
+   border: 2px solid #9453E5;
+   background-color: #4D4B05;
+   text-align: center;
+   padding: 10px;
+}
+
+#hero img {
+   width: 300px;
+}
+
+#bio {
+   text-align: center;
+}
