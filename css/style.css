@@ -61,19 +61,29 @@ header {
    color: #000;
 }
 
-/* Gallery */
+/* Gallery and Video */
 
-#gallery {
+#gallery, #video {
    border: 2px solid #9453E5;
    margin-bottom: 2rem;
 }
 
-#gallery img {
+#gallery img, #myVideo {
    max-width: 100%;
 }
 
 #gallery figure {
    text-align: center;
+}
+
+#myVideo {
+   display: block;
+   margin: 2rem auto auto;
+}
+
+#video p {
+   text-align: center;
+   margin: 2rem;
 }
 
 /* Literature */
