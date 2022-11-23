@@ -29,10 +29,10 @@ This website was a semester long project for Web Development I. The goal was to,
 
 As we learned in the fifth week of this course, a very important part of developing a good website is choosing a good color scheme. Here are the major colors that were used in this project:
 
-'#EBE800' This color was used for the background of the website.
-'#5A2899' This color was the main font color and was also used for the dropcaps and contact submit button border.
-'#9453E5' This color was the main border color and was also used for the hero and footer text as well as the form legend and button backgrounds.
-'#4D4B05' This color was the background for the hero and footer.
+- #EBE800: This color was used for the background of the website.
+- #5A2899: This color was the main font color and was also used for the dropcaps and contact submit button border.
+- #9453E5: This color was the main border color and was also used for the hero and footer text as well as the form legend and button backgrounds.
+- #4D4B05: This color was the background for the hero and footer.
 
 ## Citations
 
