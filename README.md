@@ -1,3 +1,43 @@
 # About Me
 
-Max Romano
+## Name
+
+My name is Max Romano, and I am currently a student at Raritan Valley Community College majoring in math, computer science, and IT.
+
+## Badges
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c468082-ac79-4f58-bb2e-e14e7c145a8d/deploy-status)](https://app.netlify.com/sites/about-me-maxro2005/deploys)
+
+## Description
+
+This website was a semester long project for Web Development I. The goal was to, with no prior web development knowledge or experience necessary, create a basic but complete website all about ourselves. Each week, we would learn something new and apply it to this project. Here is an outline of what was done each week:
+
+1. GitHub profile was set up.
+2. Incredibly simple "Hello World" local website was created.
+3. First iteration of About Me website was created, including BOB and avatar. This was our introduction to HTML.
+4. About Me website was set up on GitHub and Netlify.
+5. First CSS was added. The color scheme was also selected.
+6. Hobbies, Gallery, and Lit sections were created. The Lit section contained an excerpt from Sherlock Holmes. These sections demonstrated our understanding of the box model.
+7. Website was made responsive.
+8. Midterm week; no project updates
+9. Video section was added. This section demonstrated our ability to use embedded media.
+10. Contact form was created. This section demonstrated our ability to use forms.
+11. Navigation bar was created.
+12. README file was fleshed out.
+
+## Color Scheme
+
+As we learned in the fifth week of this course, a very important part of developing a good website is choosing a good color scheme. Here are the major colors that were used in this project:
+
+'#EBE800' This color was used for the background of the website.
+'#5A2899' This color was the main font color and was also used for the dropcaps and contact submit button border.
+'#9453E5' This color was the main border color and was also used for the hero and footer text as well as the form legend and button backgrounds.
+'#4D4B05' This color was the background for the hero and footer.
+
+## Citations
+
+BOB - https://assets.codepen.io/385852/logo-96X96.svg
+
+## License
+
+©2022 - Max Romano
