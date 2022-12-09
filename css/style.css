@@ -43,6 +43,11 @@ header {
 
 #bio {
    text-align: center;
+   margin-top: 1rem;
+}
+
+#bio div {
+   margin: 0 5rem;
 }
 
 /* Hobbies */

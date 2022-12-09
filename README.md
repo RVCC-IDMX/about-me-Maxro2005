@@ -25,6 +25,7 @@ This website was a semester long project for Web Development I. The goal was to,
 11. Navigation bar was created.
 12. README file was fleshed out.
 13. Nothing because I was busy doing final assignments for other courses.
+14. Logo to replace BOB was created. Bio and Hobbies sections were fleshed out.
 
 ## Color Scheme
 
@@ -37,7 +38,7 @@ As we learned in the fifth week of this course, a very important part of develop
 
 ## Citations
 
-BOB - https://assets.codepen.io/385852/logo-96X96.svg
+
 
 ## License
 
