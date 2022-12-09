@@ -25,7 +25,7 @@ This website was a semester long project for Web Development I. The goal was to,
 11. Navigation bar was created.
 12. README file was fleshed out.
 13. Nothing because I was busy doing final assignments for other courses.
-14. Logo to replace BOB was created. Bio and Hobbies sections were fleshed out.
+14. Logo to replace BOB was created. Bio and Hobbies sections were fleshed out. Final touches to content were made.
 
 ## Color Scheme
 
