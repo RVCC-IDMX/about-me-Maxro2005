@@ -24,6 +24,7 @@ This website was a semester long project for Web Development I. The goal was to,
 10. Contact form was created. This section demonstrated our ability to use forms.
 11. Navigation bar was created.
 12. README file was fleshed out.
+13. Nothing because I was busy doing final assignments for other courses.
 
 ## Color Scheme
 
@@ -31,8 +32,8 @@ As we learned in the fifth week of this course, a very important part of develop
 
 - #EBE800: This color was used for the background of the website.
 - #5A2899: This color was the main font color and was also used for the dropcaps and contact submit button border.
-- #9453E5: This color was the main border color and was also used for the hero and footer text as well as the form legend and button backgrounds.
-- #4D4B05: This color was the background for the hero and footer.
+- #9453E5: This color was the main border color and was also used for the background of the hero and footer as well as the form legend and button backgrounds.
+- White: I used white for the color of the text inside darker elements for better contrast.
 
 ## Citations
 

@@ -26,9 +26,9 @@ header {
 }
 
 #hero, footer {
-   color: #9453E5;
+   color: white;
    border: 2px solid #9453E5;
-   background-color: #4D4B05;
+   background-color: #9453E5;
    text-align: center;
    padding: 10px;
 }
