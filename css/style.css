@@ -1,3 +1,5 @@
+/* Main stylesheet for website */
+
 /* * {
    outline: 1px solid red;
 } */
@@ -47,7 +49,7 @@ header {
 }
 
 #bio div {
-   margin: 0 5rem;
+   margin: 0 2rem;
 }
 
 /* Hobbies */
@@ -167,6 +169,12 @@ legend {
    border-radius: 1rem;
 }
 
+/* Footer */
+
+footer a {
+   color: white;
+}
+
 /* Tablet size */
 
 @media screen and (min-width: 60em) {
@@ -196,6 +204,10 @@ legend {
 /* Large screen size */
 
 @media screen and (min-width: 100em) {
+   #bio div {
+      margin: 0 5rem;
+   }
+   
    #gallery {
       display: grid;
       grid-template-columns: 1fr 1fr 1fr;
