@@ -48,6 +48,10 @@ header {
    margin-top: 1rem;
 }
 
+#bio img {
+   margin-top: 1rem;
+}
+
 #bio div {
    margin: 0 2rem;
 }
