@@ -25,7 +25,7 @@ This website was a semester long project for Web Development I. The goal was to,
 11. Navigation bar was created.
 12. README file was fleshed out.
 13. Nothing because I was busy doing final assignments for other courses.
-14. Logo to replace BOB was created. Bio and Hobbies sections were fleshed out. Final touches to content were made.
+14. Logo to replace BOB was created. Bio and Hobbies sections were fleshed out. Final touches to content were made. Lit section was replaced with Blog section, which contains a blog article on image hover effects.
 
 ## Color Scheme
 
@@ -38,7 +38,10 @@ As we learned in the fifth week of this course, a very important part of develop
 
 ## Citations
 
-
+Blog Article:
+- https://www.simplilearn.com/tutorials/css-tutorial/css-hover-effects
+- https://codepen.io/nxworld/pen/ZYNOBZ
+- https://wpdatatables.com/css-image-hover-effects/#:~:text=Image%20hover%20effects%20create%20an,matter%20how%20many%20you%20add
 
 ## License
 
